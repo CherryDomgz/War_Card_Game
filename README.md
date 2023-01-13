@@ -1,9 +1,9 @@
 # War_Card_Game
 Java Game Zone: War Card Game
 
-INSTRUCTIONS:
+📝 INSTRUCTIONS:
 
-WAR 
+🔶 WAR 
 
 Using two card objects play a very simple version of the card game War. Deal two cards – one for the computer and one for the player – and determine the higher card, 
 then display a message indicating whether the cards are equal, the computer won, or the player won. (Playing cards are considered equal when they have the same value, 
@@ -12,7 +12,7 @@ For example, a deck cannot contain more than one card representing the 2 of spad
 
 ![image](https://user-images.githubusercontent.com/105072341/193649382-c7f05185-578c-407a-88d2-1c69b4d46e41.png)
 
-WAR 2
+🔶 WAR 2
 
 Now modify the game using the newly modified card class so that when a tie is declared, that each player “puts down 10 cards each” and compares the 11th card to see 
 if there is a clear winner. If there is a tie, repeat the process until there is a clear winner. The table below shows four typical executions. 
@@ -20,7 +20,7 @@ Recall that in this version of War, you assume that the ace is the lowest-valued
 
 ![image](https://user-images.githubusercontent.com/105072341/193649716-db099b84-cda3-496d-a8da-cf328845088d.png)
 
-WAR 3
+🔶 WAR 3
 
 Now create a game that plays 26 rounds of War, dealing a full deck with no repeated cards. 
 
