@@ -1,6 +1,8 @@
 # War_Card_Game
 Java Game Zone: War Card Game
 
+📧 Email: cherry.dominguez36@gmail.com
+
 📝 INSTRUCTIONS:
 
 🔶 WAR 
